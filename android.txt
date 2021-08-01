@@ -1,3 +1,0 @@
-title=Taschenrechner V1
-author=Crow Balde
-orientation=portrait
