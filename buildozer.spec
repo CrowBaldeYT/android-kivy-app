@@ -7,7 +7,7 @@ title = Rechner V1
 package.name = taschenrechner
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.kivymd
+package.domain = org.rechner
 
 # (str) Source code where the main.py live
 source.dir = .
